@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Fahsurvival.aternos.me:60873",
+    "ip": "Fahsurvival.aternos.me",
     "port": 60873,
     "version": "1.21.1"
   },
