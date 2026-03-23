@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "Fahsurvival.aternos.me:60873",
-    "port": 29195,
+    "port": 60873,
     "version": "1.21.1"
   },
   "position": {
